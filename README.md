@@ -1,1 +1,1 @@
-# Schwimmbad-Pr-mien-und-Treueprogramm
+# Schwimmbad-Prämien-und-Treueprogramm
