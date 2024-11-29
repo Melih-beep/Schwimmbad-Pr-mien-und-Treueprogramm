@@ -1,0 +1,31 @@
+Funktionale Anforderungen
+1. Nutzerregistrierung: (4Stunden)
+
+●Nutzer können sich registrieren und einloggen.
+●Der Nutzer gibt Name und E-Mail ein, und die Daten werden im System gespeichert.
+
+2.Punkte für Besuche: (4 Stunden)
+
+●Jeder Login eines Nutzers wird als Besuch gezählt und gewährt dem Nutzer 1 Punkt.
+●Nach 5 Besuchen erhält der Nutzer einen Rabatt (10% auf den nächsten Besuch).
+●Nach 10 Besuchen erhält der Nutzer eine Freikarte für den nächsten Besuch.
+
+3.Punkte einlösen: (6 Stunden)
+
+●Nutzer können ihre gesammelten Punkte für eine Freikarte (10 Punkte) oder einen Rabatt (5 Punkte) einlösen.
+●Einlösen funktioniert nur, wenn genügend Punkte vorhanden sind.
+●Nach erfolgreichem Einlösen werden die entsprechenden Punkte abgezogen.
+
+4.Admin-Funktion (nur für "melih@gmail.com"): (5 Stunden)
+
+●Der Admin kann den Punktestand eines Nutzers manuell anpassen.
+●Der Admin muss sich mit der E-Mail-Adresse „melih@gmail.com“ einloggen, um diese Funktion nutzen zu können.
+
+5.Hauptmenü und Navigation: (6 Stunden)
+
+Das Hauptmenü bietet folgende Optionen:
+●Login (Besuch zählen und Punkte erhalten)
+●Punkte anzeigen
+●Punkte einlösen
+●Punkte anpassen (nur für Admin)
+●Programm beenden
